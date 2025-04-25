@@ -18,7 +18,7 @@ Este é um projeto simples de landing page com HTML e CSS, com foco em responsiv
 
 ## 📸 Demonstração
 
-![screenshot](images/screenshot.png)
+![screenshot](images/Screenshot.png)
 
 ## 📚 Aprendizados
 
